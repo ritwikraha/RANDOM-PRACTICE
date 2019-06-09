@@ -44,7 +44,8 @@ import java.util.*;
        			 }  
 			 }
 			 else{
-			 	System.out.println("input out of bounds");
+			 	//System.out.println("input out of bounds");
+			 	System.exit(0);
 			 }
 		 }
 	}
