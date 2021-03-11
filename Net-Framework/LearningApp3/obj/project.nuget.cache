@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ou4iWVicUjCfyDFDCl8cHpP4gtyYgFVajhS6AMDoPQ+uBMD5t1L4hK5Mf//dNT9Q+ktON5qA6QhSjmt7ToyBkw==",
+  "success": true,
+  "projectFilePath": "E:\\study\\TUTORIALS\\RANDOM-PRACTICE\\Net-Framework\\LearningApp3\\LearningApp3.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

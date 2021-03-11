@@ -1,0 +1,13 @@
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\bin\Debug\netcoreapp3.1\LearningApp2.exe
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\bin\Debug\netcoreapp3.1\LearningApp2.deps.json
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\bin\Debug\netcoreapp3.1\LearningApp2.runtimeconfig.json
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\bin\Debug\netcoreapp3.1\LearningApp2.runtimeconfig.dev.json
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\bin\Debug\netcoreapp3.1\LearningApp2.dll
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\bin\Debug\netcoreapp3.1\LearningApp2.pdb
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\obj\Debug\netcoreapp3.1\LearningApp2.csprojAssemblyReference.cache
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\obj\Debug\netcoreapp3.1\LearningApp2.AssemblyInfoInputs.cache
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\obj\Debug\netcoreapp3.1\LearningApp2.AssemblyInfo.cs
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\obj\Debug\netcoreapp3.1\LearningApp2.csproj.CoreCompileInputs.cache
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\obj\Debug\netcoreapp3.1\LearningApp2.dll
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\obj\Debug\netcoreapp3.1\LearningApp2.pdb
+E:\study\TUTORIALS\RANDOM-PRACTICE\Net-Framework\LearningApp2\obj\Debug\netcoreapp3.1\LearningApp2.genruntimeconfig.cache
